@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #d09696; /* Replace with your desired dark color code */
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: #b75252; /* Replace with your desired text color */
+  }
+  
+
+body {
+  background-color: #1e1e1e; /* Replace with your desired dark background color */
+  color: #fff; /* Replace with your desired text color for better contrast */
+}
+
+  
