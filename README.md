@@ -1,0 +1,2 @@
+# InvoiceGenerator
+Frontend lab project
